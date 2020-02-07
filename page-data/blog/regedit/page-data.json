@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-blog-js","path":"/blog/regedit","result":{"data":{"markdownRemark":{"frontmatter":{"title":"レジストリ","date":"2020-02-06"},"html":"<p>Win+R -> regedit -> edit keys -> Ctrl+Shift+Esc -> Kill explorer.exe -> File-> Run new task -> explorer.exe</p>"}},"pageContext":{"isCreatedByStatefulCreatePages":false,"slug":"regedit"}}}

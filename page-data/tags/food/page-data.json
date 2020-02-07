@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-tag-js","path":"/tags/food","result":{"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"id":"5b107429-87ef-5cef-97c7-8c513f14cac3","frontmatter":{"title":"脳に良い食べ物","date":"2020-01-24","tags":["brain","food"]},"fields":{"slug":"food"}}}]}},"pageContext":{"isCreatedByStatefulCreatePages":false,"tag":"food"}}}
