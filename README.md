@@ -1,2 +1,0 @@
-# Taiki-Note
-Research Note

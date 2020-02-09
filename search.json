@@ -120,21 +120,9 @@
         "search": "registry"
     },
     {
-        "slug": "money",
-        "title": "This is Money",
-        "date": "2020-02-06",
-        "search": ""
-    },
-    {
         "slug": "psychology",
         "title": "Psychology",
         "date": "2020-01-29",
-        "search": ""
-    },
-    {
-        "slug": "curious",
-        "title": "Curious Brain",
-        "date": "2020-01-27",
         "search": ""
     },
     {
@@ -186,9 +174,45 @@
         "search": ""
     },
     {
+        "slug": "money",
+        "title": "This is Money",
+        "date": "2020-02-06",
+        "search": ""
+    },
+    {
+        "slug": "cycle",
+        "title": "Cycle",
+        "date": "2020-02-08",
+        "search": ""
+    },
+    {
+        "slug": "ethology",
+        "title": "Fish Ethology",
+        "date": "2020-02-08",
+        "search": ""
+    },
+    {
+        "slug": "neon-tetra",
+        "title": "Neon Tetra",
+        "date": "2020-02-08",
+        "search": "tropical fish"
+    },
+    {
+        "slug": "powerofhabit",
+        "title": "Power of habit",
+        "date": "2020-02-08",
+        "search": ""
+    },
+    {
         "slug": "pain",
         "title": "Pain",
         "date": "2020-02-06",
         "search": "fish"
+    },
+    {
+        "slug": "curious",
+        "title": "Curious Brain",
+        "date": "2020-01-27",
+        "search": ""
     }
 ]
